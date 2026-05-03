@@ -34,7 +34,7 @@ Guia completo: `docs/APP_SEM_LOJAS_LINK_WHATSAPP.md`.
 No app, entre na aba `Proprietario` e use o PIN inicial:
 
 ```text
-
+2026
 ```
 
 Antes de vender, troque esse PIN e conecte o painel a uma autenticacao real no servidor. O PIN do prototipo protege a tela, mas seguranca de producao exige backend.
